@@ -16,17 +16,14 @@
 - **Mời phụ huynh**: Gửi lời mời qua email để phụ huynh theo dõi con
 - **Báo cáo & thống kê**: Xem báo cáo tổng quan về tiến trình học tập
 
-<img src="docs/images/teacher/student.jpg" alt="Màn hình quản lý học sinh của giáo viên" width="600">
-
-<img src="docs/images/teacher/home.jpg" alt="Màn hình trang chủ của giáo viên" width="600">
-
-<img src="docs/images/teacher/session.jpg" alt="Màn hình tạo buổi học của giáo viên" width="600">
-
-<img src="docs/images/teacher/behavior.jpg" alt="Màn hình theo dõi hành vi của giáo viên" width="600">
-
-<img src="docs/images/teacher/report.jpg" alt="Màn hình báo cáo và thống kê của giáo viên" width="600">
-
-<img src="docs/images/teacher/profile.jpg" alt="Màn hình hồ sơ giáo viên" width="600">
+<div display="flex">
+  <img src="docs/images/teacher/student.jpg" alt="Màn hình quản lý học sinh của giáo viên" width="300">
+  <img src="docs/images/teacher/home.jpg" alt="Màn hình trang chủ của giáo viên" width="300">
+  <img src="docs/images/teacher/session.jpg" alt="Màn hình tạo buổi học của giáo viên" width="300">
+  <img src="docs/images/teacher/behavior.jpg" alt="Màn hình theo dõi hành vi của giáo viên" width="300">
+  <img src="docs/images/teacher/report.jpg" alt="Màn hình báo cáo và thống kê của giáo viên" width="300">
+  <img src="docs/images/teacher/profile.jpg" alt="Màn hình hồ sơ giáo viên" width="300">
+</div>
 
 ### 👪 Dành cho Phụ huynh
 
@@ -34,11 +31,11 @@
 - **Xem nhật ký buổi học**: Chi tiết về từng buổi học, đánh giá, hình ảnh
 - **Nhận thông báo**: Cập nhật kịp thời về hoạt động học tập của con
 
-<img src="docs/images/parent/home.jpg" alt="Màn hình trang chủ của phụ huynh" width="600">
-
-<img src="docs/images/parent/progrerss.jpg" alt="Màn hình tiến trình học tập của phụ huynh" width="600">
-
-<img src="docs/images/parent/profile.jpg" alt="Màn hình hồ sơ phụ huynh" width="600">
+<div display="flex">
+  <img src="docs/images/parent/home.jpg" alt="Màn hình trang chủ của phụ huynh" width="300">
+  <img src="docs/images/parent/progrerss.jpg" alt="Màn hình tiến trình học tập của phụ huynh" width="300">
+  <img src="docs/images/parent/profile.jpg" alt="Màn hình hồ sơ phụ huynh" width="300">
+</div>
 
 ## 🛠️ Công nghệ sử dụng
 
