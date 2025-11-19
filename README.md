@@ -16,11 +16,29 @@
 - **Mời phụ huynh**: Gửi lời mời qua email để phụ huynh theo dõi con
 - **Báo cáo & thống kê**: Xem báo cáo tổng quan về tiến trình học tập
 
+![Màn hình quản lý học sinh của giáo viên](docs/images/teacher/student.jpg)
+
+![Màn hình trang chủ của giáo viên](docs/images/teacher/home.jpg)
+
+![Màn hình tạo buổi học của giáo viên](docs/images/teacher/session.jpg)
+
+![Màn hình theo dõi hành vi của giáo viên](docs/images/teacher/behavior.jpg)
+
+![Màn hình báo cáo và thống kê của giáo viên](docs/images/teacher/report.jpg)
+
+![Màn hình hồ sơ giáo viên](docs/images/teacher/profile.jpg)
+
 ### 👪 Dành cho Phụ huynh
 
 - **Theo dõi con**: Xem thông tin và lịch sử học tập của con
 - **Xem nhật ký buổi học**: Chi tiết về từng buổi học, đánh giá, hình ảnh
 - **Nhận thông báo**: Cập nhật kịp thời về hoạt động học tập của con
+
+![Màn hình trang chủ của phụ huynh](docs/images/parent/home.jpg)
+
+![Màn hình tiến trình học tập của phụ huynh](docs/images/parent/progrerss.jpg)
+
+![Màn hình hồ sơ phụ huynh](docs/images/parent/profile.jpg)
 
 ## 🛠️ Công nghệ sử dụng
 
