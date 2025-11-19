@@ -1,0 +1,8 @@
+# Placeholder for icon.png
+This is a placeholder. Please replace with actual icon files:
+- icon.png (1024x1024)
+- adaptive-icon.png (1024x1024)
+- splash-icon.png (1284x2778)
+- favicon.png (48x48)
+
+You can generate icons at: https://www.appicon.co/

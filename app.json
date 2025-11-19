@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "EduCare Connect",
+    "slug": "educare-connect",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "educareconnect",
+    "icon": "./assets/images/icon.png",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#6750A4"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.educare.connect"
+    },
+    "android": {
+      "package": "com.educare.connect",
+      "icon": "./assets/images/icon.png",
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "permissions": [
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/icon.png"
+    },
+    "plugins": ["expo-router", "expo-font"],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "a9ac88b4-5850-49e7-817b-fc4ee0af3836"
+      },
+      "supabaseUrl": "https://jlmjhcwmvpxvmuppzdks.supabase.co",
+      "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpsbWpoY3dtdnB4dm11cHB6ZGtzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjI1NTYwNDcsImV4cCI6MjA3ODEzMjA0N30.WRwCxKfWJUOzRmCQdeOpbUgyknaGNY_NM8llzBuJ1ZU"
+    }
+  }
+}
